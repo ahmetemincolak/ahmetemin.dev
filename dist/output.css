@@ -513,19 +513,9 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.my-5 {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
-}
-
-.my-10 {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
 }
 
 .my-2 {
@@ -536,6 +526,16 @@ video {
 .mx-5 {
   margin-left: 1.25rem;
   margin-right: 1.25rem;
+}
+
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
 }
 
 .flex {
@@ -552,6 +552,10 @@ video {
 
 .min-h-\[100vh\] {
   min-height: 100vh;
+}
+
+.w-\[90\%\] {
+  width: 90%;
 }
 
 .max-w-\[1400px\] {
@@ -579,14 +583,14 @@ video {
   background-color: rgb(17 17 34 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#FF775C\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 119 92 / var(--tw-bg-opacity));
-}
-
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#FF775C\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 119 92 / var(--tw-bg-opacity));
 }
 
 .p-5 {
@@ -602,14 +606,14 @@ video {
   text-align: center;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .font-bold {
