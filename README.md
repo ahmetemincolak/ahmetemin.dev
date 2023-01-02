@@ -1,2 +1,1 @@
-# ahmetemin.dev
- 
+https://ahmetemin.dev
